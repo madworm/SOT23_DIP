@@ -4,6 +4,9 @@ SOT23_DIP
 
 LAYOUT FILES: SOT23-(3,5,6) to DIP-6 adapter 
 
+[![SOT23_DIP](/gerber_files/PNGs/SOT23_DIP__front_purple.png)](/gerber_files/PNGs/SOT23_DIP__front_purple.png)
+[![SOT23_DIP](/gerber_files/PNGs/SOT23_DIP__back_purple.png)](/gerber_files/PNGs/SOT23_DIP__back_purple.png)
+
 
 ---
 
